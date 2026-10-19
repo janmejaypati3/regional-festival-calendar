@@ -2,7 +2,7 @@
   "year": 2026,
   "region": "IN-OR",
   "calendar_source": "Odisha Govt Gazette & Kohinoor / Radharamana Panji",
-  "total_entries": 25,
+  "total_entries": 78,
   "festivals": [
     {
       "date": "2026-01-14",
@@ -138,11 +138,74 @@
       "significance": "Western Odisha's premier harvest festival; Nabanna offering to Maa Samaleswari."
     },
     {
+      "date": "2026-10-01",
+      "name": "Gaja Shasthi",
+      "odia_name": "ଗଜ ଷଷ୍ଠୀ",
+      "type": "Regional Observance",
+      "significance": "Traditional Shasthi observance listed in Kohinoor Odia Calendar."
+    },
+    {
+      "date": "2026-10-02",
+      "name": "Gandhi Jayanti / Lal Bahadur Shastri Jayanti",
+      "odia_name": "ଗାନ୍ଧୀ ଜୟନ୍ତୀ / ଲାଲ ବାହାଦୁର ଶାସ୍ତ୍ରୀ ଜୟନ୍ତୀ",
+      "type": "National & Bank Holiday",
+      "significance": "Birth anniversaries of Mahatma Gandhi and former Prime Minister Lal Bahadur Shastri."
+    },
+    {
+      "date": "2026-10-03",
+      "name": "Mula Ashtami / Dwiti Bahana Osha / Sri Durga Devi Uthapana",
+      "odia_name": "ମୂଳାଷ୍ଟମୀ / ଦ୍ୱିତୀବାହନ ଓଷା",
+      "type": "Temple Ritual & Regional Fasting",
+      "significance": "Awakening of Goddess Durga, Sahasra Kumbhabhisheka, beginning of 16-day Shodasha Dinatmaka Puja, and Dutibahana Osha (Jitiya)."
+    },
+    {
+      "date": "2026-10-06",
+      "name": "Indira Ekadashi",
+      "odia_name": "ଇନ୍ଦିରା ଏକାଦଶୀ",
+      "type": "Ekadashi Fasting",
+      "significance": "Pitru Paksha Ekadashi fasting and Harinam Sankirtan observed for the liberation of ancestors."
+    },
+    {
+      "date": "2026-10-09",
+      "name": "Shiva Chaturdashi & Beda Parikrama",
+      "odia_name": "ଶିବ ଚତୁର୍ଦ୍ଦଶୀ ଓ ବେଢ଼ା ପରିକ୍ରମା",
+      "type": "Regional Observance",
+      "significance": "Monthly Masa Shivaratri fasting and temple circumambulation."
+    },
+    {
       "date": "2026-10-10",
       "name": "Mahalaya",
       "odia_name": "ମହାଳୟା",
       "type": "State Holiday",
       "significance": "Tila Tarpan offerings to ancestors and formal invocation of Maa Durga."
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Navaratri Arambha / Maa Biraja Devi Rathayatra",
+      "odia_name": "നବରାତ୍ର ଆରମ୍ଭ / ମା ବିରଜା ଦେବୀ ରଥଯାତ୍ରା",
+      "type": "Major Regional",
+      "significance": "Beginning of 9-day Sharadiya Navaratri Durga Puja, Maa Biraja Devi chariot festival in Jajpur, and Daga Madhaba Bahara Bije."
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Chandra Darshan Puja",
+      "odia_name": "ଚନ୍ଦ୍ର ଦର୍ଶନ ପୂଜା",
+      "type": "Regional Observance",
+      "significance": "Auspicious sighting and worship of the new crescent moon after Amavasya."
+    },
+    {
+      "date": "2026-10-15",
+      "name": "Nata Panchami / Guru Panchami Brata",
+      "odia_name": "ନଟ ପଞ୍ଚମୀ / ଗୁରୁ ପଞ୍ଚମୀ ବ୍ରତ",
+      "type": "Regional Observance",
+      "significance": "Maa Biraja Devi Panchami Homa and traditional Guru Panchami Brata."
+    },
+    {
+      "date": "2026-10-16",
+      "name": "Tapah Shasthi / Bilwadhiwasa (Durga Shasthi)",
+      "odia_name": "ତପଃ ଷଷ୍ଠୀ / ବିଲ୍ୱାଧିବାସ",
+      "type": "Temple & Puja Ritual",
+      "significance": "Mrunmayee Devi Bilwadhiwasa invocation ritual under the Bel tree on the eve of Maha Saptami."
     },
     {
       "date": "2026-10-17",
@@ -152,11 +215,53 @@
       "significance": "Beginning of full-scale public pandal worship of Goddess Durga in Cuttack and Bhubaneswar."
     },
     {
+      "date": "2026-10-18",
+      "name": "Maha Ashtami Puja (Durga Puja)",
+      "odia_name": "ମହାଷ୍ଟମୀ ପୂଜା (ଦୁର୍ଗା ପୂଜା)",
+      "type": "State Holiday",
+      "significance": "Culminating Sandhi Puja of Goddess Durga and start of Sharana period (Sharana Arambha)."
+    },
+    {
+      "date": "2026-10-19",
+      "name": "Maha Navami Puja (Durga Puja)",
+      "odia_name": "ମହାନବମୀ ପୂଜା (ଦୁର୍ଗା ପୂଜା)",
+      "type": "State Holiday",
+      "significance": "Maha Navami worship and Chandi Homa across Shakti Peethas and public pandals."
+    },
+    {
       "date": "2026-10-20",
       "name": "Dussehra / Vijaya Dashami",
       "odia_name": "ଦଶହରା / ବିଜୟାଦଶମୀ",
       "type": "State Holiday",
       "significance": "Culmination of Sharadiya Durga Puja, Aparajita Puja, Astra Puja, and Ravan Podi."
+    },
+    {
+      "date": "2026-10-21",
+      "name": "Dashahara in Srimandir / Durga Puja Bisarjan & Somanatha Brata",
+      "odia_name": "ଶ୍ରୀମନ୍ଦିରରେ ଦଶହରା / ଭସାଣି ଓ ସୋମନାଥ ବ୍ରତ",
+      "type": "Srimandir Ritual & Immersion",
+      "significance": "Rajarajeswara (Suna) Besha in Srimandir, conclusion of Somanatha Brata, and ceremonial idol immersion (Bhasani)."
+    },
+    {
+      "date": "2026-10-22",
+      "name": "Papankusha Ekadashi",
+      "odia_name": "ପାପାଙ୍କୁଶା ଏକାଦଶୀ",
+      "type": "Ekadashi Fasting",
+      "significance": "Ashwina Shukla Ekadashi fasting and Harinam Sankirtan."
+    },
+    {
+      "date": "2026-10-23",
+      "name": "Sharana Shesha",
+      "odia_name": "ଶରଣ ଶେଷ",
+      "type": "Astrological Period",
+      "significance": "Conclusion of the monthly Panchaka / Sharana Nakshatra period."
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Shiva Chaturdashi Fasting & Beda Parikrama",
+      "odia_name": "ଶିବ ଚତୁର୍ଦ୍ଦଶୀ ଉପବାସ ଓ ବେଢ଼ା ପରିକ୍ରମା",
+      "type": "Regional Observance & Bank Holiday",
+      "significance": "Chaturdashi fasting, temple circumambulation, and 4th Saturday Bank Holiday."
     },
     {
       "date": "2026-10-25",
@@ -166,6 +271,41 @@
       "significance": "Moon worship (Chandra Puja) by unmarried youth; start of 11-day Dhenkanal Lakshmi Puja."
     },
     {
+      "date": "2026-10-26",
+      "name": "Kartika Brata Arambha / Maharishi Valmiki Jayanti",
+      "odia_name": "କାର୍ତ୍ତିକ ବ୍ରତ ଆରମ୍ଭ / ବାଲ୍ମୀକି ଜୟନ୍ତୀ",
+      "type": "Major Regional & Holiday",
+      "significance": "Purnima observance, commencement of the sacred month-long Kartika Habisha Vrata, and Valmiki Jayanti."
+    },
+    {
+      "date": "2026-10-29",
+      "name": "Karaka Chaturthi (Karva Chauth)",
+      "odia_name": "କରକ ଚତୁର୍ଥୀ",
+      "type": "Holiday / Fasting",
+      "significance": "Traditional Chaturthi fast for marital longevity and moonrise worship."
+    },
+    {
+      "date": "2026-10-30",
+      "name": "Shashthi Mela",
+      "odia_name": "ଷଷ୍ଠୀ ମେଳା",
+      "type": "Local Observance",
+      "significance": "Regional Shashthi Mela observance."
+    },
+    {
+      "date": "2026-11-05",
+      "name": "Rama Ekadashi",
+      "odia_name": "ରମା ଏକାଦଶୀ",
+      "type": "Ekadashi Fasting",
+      "significance": "Kartika Krishna Ekadashi fasting and Hala Nishedha."
+    },
+    {
+      "date": "2026-11-06",
+      "name": "Govatsa Dwadashi",
+      "odia_name": "ଗୋবତ୍ସ ଦ୍ୱାଦଶୀ",
+      "type": "Regional Observance",
+      "significance": "Worship of cows and calves marking the start of Deepavali festivities."
+    },
+    {
       "date": "2026-11-08",
       "name": "Diwali / Kali Puja / Bada Badua Daka",
       "odia_name": "ଦୀପାବଳି / ବଡ଼ ବଡୁଆ ଡାକ",
@@ -173,11 +313,88 @@
       "significance": "Festival of lights; burning Kaunriya sticks in Puri to invite and guide ancestor spirits."
     },
     {
+      "date": "2026-11-09",
+      "name": "Govardhan Puja (Holiday Observance)",
+      "odia_name": "ଗୋବର୍ଦ୍ଧନ ପୂଜା",
+      "type": "Holiday",
+      "significance": "Holiday observance for Govardhan Puja following Deepavali."
+    },
+    {
+      "date": "2026-11-10",
+      "name": "Govardhan Puja / Annakut & Chandra Darshan",
+      "odia_name": "ଗୋବର୍ଦ୍ଧନ ପୂଜା / অନ୍ନକୂଟ ଓ ଚନ୍ଦ୍ର ଦର୍ଶନ",
+      "type": "Temple & Regional Ritual",
+      "significance": "Annakut offering to Lord Krishna and auspicious Chandra Darshan Puja."
+    },
+    {
+      "date": "2026-11-11",
+      "name": "Yama Dwitiya / Bhai Dooj",
+      "odia_name": "ଯମ ଦ୍ୱିତୀୟା / ଭାଇ ଦୂଜ",
+      "type": "Festival & Holiday",
+      "significance": "Ritual celebrating the bond between brothers and sisters and worship of Yamuna and Yama."
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Naga Chaturthi",
+      "odia_name": "ନାଗ ଚତୁର୍ଥୀ",
+      "type": "Regional Fasting",
+      "significance": "Worship of Nagas (serpent deities) for family protection and wellbeing."
+    },
+    {
+      "date": "2026-11-14",
+      "name": "Children's Day (Nehru Jayanti) & Sharana Arambha",
+      "odia_name": "ଶିଶୁ ଦିବସ ଓ ଶରଣ ଆରମ୍ଭ",
+      "type": "National Observance & Bank Holiday",
+      "significance": "Birth anniversary of Pandit Jawaharlal Nehru, 2nd Saturday Bank Holiday, and start of Sharana period."
+    },
+    {
+      "date": "2026-11-15",
+      "name": "Chhath Puja (Surya Shashthi)",
+      "odia_name": "ଛଠ ପୂଜା (ସୂର୍ଯ୍ୟ ଷଷ୍ଠୀ)",
+      "type": "Holiday & Solar Worship",
+      "significance": "Worship of Surya Deva and Chhathi Maiya at riverbanks at sunset and sunrise."
+    },
+    {
+      "date": "2026-11-16",
+      "name": "Vrischika Sankranti / Kartikeya Puja",
+      "odia_name": "ବିଛା ସଂକ୍ରାନ୍ତି / କାର୍ତ୍ତିକେୟ ପୂଜା",
+      "type": "Solar Ingress & Ritual",
+      "significance": "Sun enters Vrischika Rashi (Margashira solar month begins), Kartikeya Puja, and Sholasa Asana Amrita Manohi Bhoga."
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Gopashtami",
+      "odia_name": "ଗୋପାଷ୍ଟମୀ",
+      "type": "Regional Festival",
+      "significance": "Go-Puja (worship of cows and Goshalas) commemorating Lord Krishna becoming a cowherd."
+    },
+    {
       "date": "2026-11-18",
       "name": "Anla Navami",
       "odia_name": "ଅଁଳା ନବମୀ",
       "type": "Restricted Holiday",
       "significance": "Worship of the Amla tree and sacred 'Radha Pada Darshan' at Sakshigopal Temple."
+    },
+    {
+      "date": "2026-11-19",
+      "name": "Sharana Shesha",
+      "odia_name": "ଶରଣ ଶେଷ",
+      "type": "Astrological Period",
+      "significance": "End of the monthly Sharana period."
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Sharad Rasa Adhiwasa / Radha-Damodara Besha Ends",
+      "odia_name": "ଶରଦ ରାସ ଅଧିବାସ / ରାଧା ଦାମୋଦର ବେଶ ସମାପ୍ତ",
+      "type": "Srimandir Ritual",
+      "significance": "Conclusion of the month-long Radha-Damodara Besha at Srimandir before Panchuka begins."
+    },
+    {
+      "date": "2026-11-21",
+      "name": "Devotthapana (Bada) Ekadashi / Tulasi Vivah & Bhishma Panchaka",
+      "odia_name": "ବଡ଼ ଏକାଦଶୀ / ତୁଳସୀ ବିବାହ ଓ ଭୀଷ୍ମ ପଞ୍ଚକ",
+      "type": "Major Regional & Srimandir Ritual",
+      "significance": "Awakening of Lord Vishnu (Prabodhini Ekadashi), Laxmi-minarayan Besha at Puri, Garuda Dwadashi, and start of 5-day Panchuka Vrata."
     },
     {
       "date": "2026-11-23",
@@ -194,11 +411,165 @@
       "significance": "Floating of toy paper boats to commemorate Kalinga maritime voyages; launch of the Cuttack Bali Jatra."
     },
     {
+      "date": "2026-11-25",
+      "name": "Chadakhai",
+      "odia_name": "ଛାଡ଼ଖାଇ",
+      "type": "Cultural Observance",
+      "significance": "Traditional feast day marking the end of the month-long vegetarian vow of Kartika."
+    },
+    {
+      "date": "2026-11-26",
+      "name": "Manabasa Gurubar (First Thursday of Margashira)",
+      "odia_name": "ମାଣବସା ଗୁରୁବାର (ପ୍ରଥମ ପାଳି)",
+      "type": "Major Regional",
+      "significance": "First Thursday of Margashira month dedicated to Goddess Mahalakshmi worship and Jhoti Chita."
+    },
+    {
+      "date": "2026-11-28",
+      "name": "Sita Vivaha (Vivaha Panchami)",
+      "odia_name": "ସୀତା ବିବାହ (ବିବାହ ପଞ୍ଚମୀ)",
+      "type": "Regional Festival & Bank Holiday",
+      "significance": "Celebration of the divine wedding of Lord Rama and Goddess Sita; 4th Saturday Bank Holiday."
+    },
+    {
+      "date": "2026-11-29",
+      "name": "Shreekhetra Parikrama",
+      "odia_name": "ଶ୍ରୀକ୍ଷେତ୍ର ପରିକ୍ରମା",
+      "type": "Pilgrimage Ritual",
+      "significance": "Sacred circumambulation of Shreekhetra (Puri Dham) by devotees."
+    },
+    {
       "date": "2026-12-01",
       "name": "Prathamastami",
       "odia_name": "ପ୍ରଥମାଷ୍ଟମୀ",
       "type": "Restricted Holiday",
       "significance": "Ceremony honoring the eldest child of the family with new attire and turmeric-leaf Enduri Pitha."
+    },
+    {
+      "date": "2026-12-03",
+      "name": "Manabasa Gurubar (Margashira Thursday)",
+      "odia_name": "ମାଣବସା ଗୁରୁବାର",
+      "type": "Major Regional",
+      "significance": "Weekly Thursday worship of Goddess Lakshmi with freshly harvested paddy (Mana) and Pitha offerings."
+    },
+    {
+      "date": "2026-12-04",
+      "name": "Utpanna Ekadashi / Deba Deepavali Begins at Srimandir",
+      "odia_name": "ଉତ୍ପନ୍ନା ଏକାଦଶୀ / ଶ୍ରୀମନ୍ଦିରରେ ଦେବ ଦୀପାବଳି ଆରମ୍ଭ",
+      "type": "Srimandir Ritual & Ekadashi",
+      "significance": "Utpanna Ekadashi fasting, Harinam Sankirtan, and start of the 3-day Deba Deepavali lamp offering by Lord Jagannath to His ancestral forms."
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Mahodadhi Amavasya / Deba Deepavali & Gosahasthi Snana",
+      "odia_name": "ମହୋଦଧି ଅମାବାସ୍ୟା / ଦେବ ଦୀପାବଳି",
+      "type": "Srimandir & Sea Ritual",
+      "significance": "Sacred sea bath at Puri (Mahodadhi), Deba Deepavali rituals at Srimandir, Chandra Kshaya night vigil, and Hala Nishedha (Dec 7–9)."
+    },
+    {
+      "date": "2026-12-10",
+      "name": "Chandra Darshan Puja",
+      "odia_name": "ଚନ୍ଦ୍ର ଦର୍ଶନ ପୂଜା",
+      "type": "Regional Observance",
+      "significance": "Auspicious sighting and worship of the new crescent moon with fasting."
+    },
+    {
+      "date": "2026-12-11",
+      "name": "Rambha Tritiya",
+      "odia_name": "ରମ୍ଭା ତୃତୀୟା",
+      "type": "Regional Vrata",
+      "significance": "Traditional Margashira Shukla Tritiya vrata observance."
+    },
+    {
+      "date": "2026-12-12",
+      "name": "Sharana Arambha / 2nd Saturday Bank Holiday",
+      "odia_name": "ଶରଣ ଆରମ୍ଭ",
+      "type": "Astrological Period & Bank Holiday",
+      "significance": "Start of the monthly Sharana period and 2nd Saturday Bank Holiday."
+    },
+    {
+      "date": "2026-12-14",
+      "name": "Kural Panchami",
+      "odia_name": "କୁରାଳ ପଞ୍ଚମୀ",
+      "type": "Regional Festival",
+      "significance": "Traditional festival of the Kumbhara (potter) community worshipping Lord Rudrapala and the potter's wheel."
+    },
+    {
+      "date": "2026-12-15",
+      "name": "Odana Shashthi (Prabarana Shashthi)",
+      "odia_name": "ଓଢ଼ଣ ଷଷ୍ଠୀ (ପ୍ରବରଣ ଷଷ୍ଠୀ)",
+      "type": "Srimandir Ritual",
+      "significance": "Ceremonial dressing of the Holy Trinity in starched winter garments (Ghodagi/Phuta) marking the onset of winter."
+    },
+    {
+      "date": "2026-12-16",
+      "name": "Dhanu Sankranti / Pahili Bhoga Begins",
+      "odia_name": "ଧନୁ ସଂକ୍ରାନ୍ତି / ପହିଲି ଭୋଗ ଆରମ୍ଭ",
+      "type": "Major Regional & Srimandir Ritual",
+      "significance": "Sun enters Dhanu Rashi (Pausa solar month); Dhanu Muan offering and start of month-long early-morning Pahili Bhoga at Srimandir."
+    },
+    {
+      "date": "2026-12-17",
+      "name": "Sharana Shesha",
+      "odia_name": "ଶରଣ ଶେଷ",
+      "type": "Astrological Period",
+      "significance": "Conclusion of the monthly Sharana period."
+    },
+    {
+      "date": "2026-12-18",
+      "name": "Mokshada Ekadashi / Rabinarayan Brata",
+      "odia_name": "ମୋକ୍ଷଦା ଏକାଦଶୀ / ରବିନାରାୟଣ ବ୍ରତ",
+      "type": "Ekadashi Fasting",
+      "significance": "Margashira Shukla Ekadashi fasting and Rabinarayan Brata observance."
+    },
+    {
+      "date": "2026-12-21",
+      "name": "Byanjana Dwadashi",
+      "odia_name": "ବ୍ୟଞ୍ଜନ ଦ୍ୱାଦଶୀ",
+      "type": "Vaishnava & Cultural Festival",
+      "significance": "Offering of hundreds of traditional varieties of cooked delicacies (Byanjana) to Lord Krishna, commemorating Yashoda Mata's love."
+    },
+    {
+      "date": "2026-12-22",
+      "name": "Ananga Trayodashi / Gita Jayanti & Pashana Chaturdashi",
+      "odia_name": "ଅନଙ୍ଗ ତ୍ରୟୋଦଶୀ / ଗୀତା ଜୟନ୍ତୀ ଓ ପାଷାଣ ଚତୁର୍ଦ୍ଦଶୀ",
+      "type": "Major Regional",
+      "significance": "Commemoration of the Bhagavad Gita discourse, Shiva-Kama worship, and Pashana Chaturdashi Pitha offerings."
+    },
+    {
+      "date": "2026-12-23",
+      "name": "Pandu Osha / Chandra Puja & Hazarat Ali's Birthday",
+      "odia_name": "ପାଣ୍ଡୁ ଓଷା / ଚନ୍ଦ୍ର ପୂଜା",
+      "type": "Regional Observance & Holiday",
+      "significance": "Pandu Purnima eve observance, Chandra Puja fasting, and Hazarat Ali's Birthday."
+    },
+    {
+      "date": "2026-12-24",
+      "name": "Margashira Purnima (Pandu Purnima) & Christmas Eve",
+      "odia_name": "ମାର୍ଗଶିର ପୂର୍ଣ୍ଣିମା (ପାଣ୍ଡୁ ପୂର୍ଣ୍ଣିମା)",
+      "type": "Major Regional & Holiday",
+      "significance": "Culmination of the auspicious month of Margashira and Christmas Eve."
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Christmas Day (Bada Dina)",
+      "odia_name": "ବଡ଼ଦିନ (ଖ୍ରୀଷ୍ଟମାସ)",
+      "type": "State & National Holiday",
+      "significance": "Celebration of the birth of Jesus Christ; public and bank holiday across Odisha."
+    },
+    {
+      "date": "2026-12-26",
+      "name": "Danda Pahara & Bata Osha",
+      "odia_name": "ଦଣ୍ଡ ପହଁରା ଓ ବାଟ ଓଷା",
+      "type": "Regional Vrata & Bank Holiday",
+      "significance": "Traditional Pausa Krishna Pratipada / Dwitiya pathway worship (Bata Osha) and 4th Saturday Bank Holiday."
+    },
+    {
+      "date": "2026-12-31",
+      "name": "Pathani Samanta Jayanti / English Year-End",
+      "odia_name": "ପଠାଣି ସାମନ୍ତ ଜୟନ୍ତୀ",
+      "type": "Regional Commemoration",
+      "significance": "Birth anniversary of Mahamahopadhyaya Chandra Sekhar Singha Harichandan Mahapatra (Pathani Samanta), Odisha's legendary astronomer."
     }
   ]
 }
